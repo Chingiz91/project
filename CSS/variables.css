@@ -1,0 +1,12 @@
+:root {
+  --secondary-color: rgba(154, 150, 150, 0, 769);
+  --primary-color: #5454d4;
+
+  /* Font siza */
+  --main-size: 20px;
+  --section-title-size: 60px
+  
+
+  /* Fonts */
+  --header-family: "Open Sans", sans-serif;
+}
